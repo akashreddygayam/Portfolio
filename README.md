@@ -44,14 +44,14 @@ Building this portfolio from scratch has been an invaluable learning experience.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/your-portfolio-repo.git](https://github.com/yourusername/your-portfolio-repo.git)
+    git clone [https://github.com/akashreddygayam/Portfolio.git](https://github.com/yourusername/akashreddygayam/Portfolio.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-portfolio-repo
+    cd Portfolio
     ```
-3.  **Open `portfolio.html` in your browser:**
-    Simply open the `portfolio.html` file in your preferred web browser to view the portfolio.
+3.  **Open `Portfolio.html` in your browser:**
+    Simply open the `Portfolio.html` file in your preferred web browser to view the portfolio.
 
 ## 🤝 Contribution
 
@@ -59,7 +59,7 @@ Building this portfolio from scratch has been an invaluable learning experience.
 
 ## 📄 License
 
-- This project is open source and available under the [MIT License](LICENSE).
+- This project is open source and available under the [MicronIT](MicronIT).
 
 ## 📞 Contact
 
